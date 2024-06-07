@@ -1,2 +1,0 @@
-During this period I had a focus on player. I had an issue with Animator and I spent hours and hours trying to make him run. After few days of work I managed to make him appear like 
-he switched animation (when I debugged it showed that animation changed but he would still float). I also made the camera follow him and worked with camera angles.
