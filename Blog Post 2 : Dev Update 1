@@ -1,5 +1,0 @@
-BLOG POST 2 - Dev update
-For map generation I will be using tiles. I have created 4 different types of tiles (different order of coins, obstacles, buildings) and they will be placed randomly in order to create a full random map for each run.
-It took me a lot to grasp how am I supposed to edit objects, it took me like 1h just to find Asset store and download everything. After few hours of creating tiles it became pretty trivial. I started with player object and it is chaotic so I postponed that part.
-I want to make him run but I will need to watch some youtube videos and see how other people did all that kinematic.
-Using Unity is honestly a bit hard for me as I have absolutely no experience with Game Development, but nothing can beat the feeling of sitting 8h in front of pc and seeing some progress with something you find difficult.
