@@ -1,6 +1,7 @@
 Game Title: Medieval Runner
 Summary
-Medieval Runner is an exhilarating endless runner game set against the backdrop of a vibrant and bustling medieval town. Players step into the shoes of a daring adventurer, sprinting through the lively streets, dodging obstacles, and collecting valuable coins and power-ups along the way. With three distinct difficulty modes—Easy, Normal, and Impossible—players can tailor the challenge to their liking. Designed for arcade machines with joystick controls, Medieval Runner promises a thrilling and immersive gaming experience.
+Medieval Runner is an exhilarating endless runner game set against the backdrop of a vibrant and bustling medieval town. Players step into the shoes of a daring adventurer, sprinting through the lively streets, dodging obstacles, and collecting valuable coins and power-ups along the way. 
+With three distinct difficulty modes—Easy, Normal, and Impossible—players can tailor the challenge to their liking. Designed for arcade machines with joystick controls, Medieval Runner promises a thrilling and immersive gaming experience.
 
 Gameplay
 Objective
@@ -60,4 +61,5 @@ Global Leaderboard: Implement a global leaderboard to foster competition among p
 Character Customization
 Customizable Characters: Allow players to personalize their character’s appearance with various outfits and accessories, adding a layer of engagement and personalization.
 Conclusion
-Medieval Runner is designed to offer an engaging and challenging endless runner experience set in a lively medieval town. With its straightforward mechanics, vibrant visuals, and intuitive controls, it’s designed to be accessible and enjoyable for players of all ages. Whether you’re dodging barrels in Easy mode or navigating a gauntlet of cannonballs in Impossible mode, Medieval Runner promises an adventure that’s both thrilling and endlessly replayable.
+Medieval Runner is designed to offer an engaging and challenging endless runner experience set in a lively medieval town. With its straightforward mechanics, vibrant visuals, and intuitive controls, it’s designed to be accessible and enjoyable for players of all ages. 
+Whether you’re dodging barrels in Easy mode or navigating a gauntlet of cannonballs in Impossible mode, Medieval Runner promises an adventure that’s both thrilling and endlessly replayable.
