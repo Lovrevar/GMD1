@@ -1,0 +1,3 @@
+During this ending period I tackled with new features, I decided I want to add in Elixirs to the game. They spawn randomly every 10th tile on random locations I assigned in script. Green elixir multiplies coins by 2x
+and Red elixir saves you from 1 cannon shot. 
+I spent a lot of time at University during this period because I needed to setup the game to be working on Arcade Machine controls.
