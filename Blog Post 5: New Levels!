@@ -1,0 +1,3 @@
+During this period I decided I want to complicate my game a bit so I added cannons to it that shoot randomly between 1-3 intervals, I also created 8 more tiles so that player has option to pick from 3 different 
+levels (Easy, Normal, Impossible). On easy mode there was only 3 lanes and no cannons while on normal there were plenty of cannons but also 5 lanes and on Impossible there are at least 2 cannons per tile and only 3
+lanes and that makes it quite impossible to gain high score as player needs to rely on luck becuse of cannon shooting intervals. I also added coins and system that keeps track of those coins.
