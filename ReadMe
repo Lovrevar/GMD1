@@ -1,0 +1,17 @@
+Game controls:
+Move player left and right - Joystick shift
+Select button - 
+Navigate through buttons - Joystick shift
+
+Elixirs:
+Elixirs spawn on "Normal" difficulty:
+Red elixir spawns every 10th time 2nd tile is initialized and it gives player a shield from 1 cannon shot.
+Green elixir spawns every 10th time 3rd tile is initialized and it gives player 2x coin multiplier for 30 seconds.
+
+Cannons:
+Cannons start shooting when player steps on that tile and they shoot in intervals between 1-3 seconds.
+Be aware that some cannons are hidden!
+
+End:
+The game is made as endless runner so it has no end.
+You run until you don't, GOOD LUCK!
